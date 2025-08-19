@@ -2,7 +2,7 @@
 
 merkkijono = "string"
 numero = 123
-boolean = True # aina iso aakkonen
+boolean = True # aina iso kirjain
 boolean2 = False
 # virheellinen_boolean = true
 lista = [numero, boolean, merkkijono, boolean2] # listaan kirjoitetaan sekä muuttajat että tekstit jne.
