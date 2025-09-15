@@ -1,9 +1,9 @@
-def sum_of_list(numbers):
-    total = 0
-    for number in numbers:
-        total += number
-    return total
+def sum_of_list(luvut):
+    summa = 0
+    for luku in luvut:
+        summa += luku
+    return summa
 
-test_list = [1, 2, 3, 4, 5]
-result = sum_of_list(test_list)
-print(f"The sum of the numbers in the list is: {result}")
+lista = [1, 2, 3, 4, 5]
+tulos = sum_of_list(lista)
+print(f"The sum of the numbers in the list is: {tulos}")
